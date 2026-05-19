@@ -1,0 +1,14 @@
+# PHP
+vendor/
+.env
+*.log
+php_error.log
+
+# XAMPP / Windows
+.DS_Store
+Thumbs.db
+
+# Carpetas que normalmente no quieres subir
+node_modules/
+build/
+dist/
